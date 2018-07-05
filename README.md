@@ -1,0 +1,3 @@
+# Pystatistics
+
+Statistics computation module
